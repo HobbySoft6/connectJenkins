@@ -1,13 +1,1 @@
-pipeline {
-    agent any
-
-    stages {
-        
-        stage('Test') {
-            steps {
-                echo 'Testing. good world.'
-            }
-        }
-        
-    }
-}
+echo "this is a good world!"
