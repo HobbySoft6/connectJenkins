@@ -9,6 +9,7 @@ pipeline
             echo "my try again"
             echo "wish this time better"
             echo "wish better"
+            echo "change to windows"
 
             }
         }
