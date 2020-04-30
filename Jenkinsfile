@@ -7,6 +7,7 @@ pipeline
             echo "I try to test, book"
             echo " another try"
             echo "my try again"
+            echo "wish this time better"
 
             }
         }
