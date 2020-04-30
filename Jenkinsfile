@@ -8,6 +8,7 @@ pipeline
             echo " another try"
             echo "my try again"
             echo "wish this time better"
+            echo "wish better"
 
             }
         }
