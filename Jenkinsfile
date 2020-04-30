@@ -10,6 +10,7 @@ pipeline
             echo "wish this time better"
             echo "wish better"
             echo "change to windows"
+            echo "try agian"
 
             }
         }
