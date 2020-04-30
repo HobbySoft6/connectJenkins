@@ -4,7 +4,8 @@ pipeline
     stages{
         stage('MyTest'){
             steps{
-            echo "I try to test, with change,again"
+            echo "I try to test, book"
+            echo " another try"
             }
         }
     }
