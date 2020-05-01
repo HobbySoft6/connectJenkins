@@ -12,7 +12,7 @@ pipeline
             echo "change to windows"
             echo "try agian"
             echo "one more time"
-            echo "move to new trigger"
+            echo "move to new trigger1"
 
             }
         }
